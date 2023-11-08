@@ -150,7 +150,7 @@ b {
     font-style: oblique;
 }
 .heading{
-    background: url(./wallpaper.jpg) no-repeat;
+    background: url(./images/wallpaper.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-top: 12rem;
